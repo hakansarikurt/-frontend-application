@@ -1,0 +1,87 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.hero-image {
+    background-image: url(sunnyside-agency-landing-page-main/images/desktop/image-header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 950px;
+
+
+
+
+
+}
+
+.baslik {
+    display: block;
+    text-align: center;
+    padding-top: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
+.img1 {
+    position: relative;
+    left: 950px;
+    top: 110px;
+}
+
+.img3 {
+    width: 100%;
+    height: 100%;
+}
+
+.kiraz {
+    background-image: url(sunnyside-agency-landing-page-main/images/desktop/image-graphic-design.jpg);
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mandalin {
+    background-image: url(sunnyside-agency-landing-page-main/images/desktop/image-photography.jpg);
+    width: 100%;
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.kiraz1{
+    position: relative;
+    top: 600px;
+    left: 250px;
+}
+.orta{
+    padding: 200px;
+}
+.baslik2{
+    font-size: 70px;
+}
+.client{
+
+    color:#8c8b8b;
+    font-family: 'Times New Roman', Times, serif;
+}
+.seker{
+    width: 100%;
+    height: 100%;
+}
+.li{
+    display: inline;
+       
+}
+.li a{
+    color: rgb(21, 85, 72);
+}
+.sunny{
+    color: rgb(21, 85, 72);
+}
+.footer{
+    background-color: rgb(145, 211, 198);
+}
